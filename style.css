@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  background-image: url(img/Play-Chess-Step-28-Version-5.jpg);
+  background-size: 500px;
+  font-size: 20px;
+}
+
+.nav a {
+  margin: 0px 25px;
+}
+
+ .about{
+color: blue;
+}
+
+img{
+ height: 150px;
+}
